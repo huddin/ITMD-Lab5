@@ -2,12 +2,12 @@ body{
   background-image: url("../img/backgroung-img.jpg");
   background-size: 100%;
   color: white;
-  font-family: Georgia, 'Times New Roman', Times, serif
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
   text-align: center;
   font-size: 4em;
-  color: azure
+  color: azure;
 }
 h3{
   text-align: center;
@@ -32,5 +32,11 @@ th {
 }
 td{
   padding: 1%;
-  border: 2px solid white
+  border: 2px solid white;
+}
+.row-header{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
