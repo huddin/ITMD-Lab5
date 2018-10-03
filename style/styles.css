@@ -2,4 +2,22 @@ body{
   background-image: url("../img/backgroung-img.jpg");
   background-size: 100%;
   color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+h1{
+  text-align: center;
+  font-size: 4em;
+  color: azure
+}
+h3{
+  text-align: center;
+  font-size: 2em;
+  color: azure
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  text-align: center;
+  background-color: black;
 }
