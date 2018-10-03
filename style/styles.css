@@ -1,3 +1,5 @@
 body{
-  background-color: darkblue;
+  background-image: url("../img/backgroung-img.jpg");
+  background-size: 100%;
+  color: white;
 }
