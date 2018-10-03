@@ -4,25 +4,30 @@ body{
   color: white;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
-h1{
+h1,h3{
   text-align: center;
-  font-size: 4em;
-  color: azure;
 }
-h3{
-  text-align: center;
-  font-size: 2em;
-  color: azure
+.page-title{
+  font-size: 2.3em;
+  color: rgb(239, 208, 164);
+  border-bottom: #a59b87 solid;
+  font-family: 'Constantia', Courier, monospace;
+}
+.page-subHeading{
+  font-size: 1.5em;
+  color: azure;
+  border-bottom: azure solid;
 }
 table {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
   text-align: center;
-  background-color: black;
+  /* background-color: black; */
+  background-color: rgba(0, 0, 0, 0.78);
 }
 th {
-  background-color: #424153;
+  background-color: rgba(99, 82, 152, 0.76);;
   color: #FFFFFF;
   font-size: 1em;
   width: 50px;
