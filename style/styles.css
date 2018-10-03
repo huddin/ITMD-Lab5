@@ -21,3 +21,16 @@ table {
   text-align: center;
   background-color: black;
 }
+th {
+  background-color: #424153;
+  color: #FFFFFF;
+  font-size: 1em;
+  width: 50px;
+  padding: 1%;
+  text-align: center;
+  border: 1px solid #000000;
+}
+td{
+  padding: 1%;
+  border: 2px solid white
+}
